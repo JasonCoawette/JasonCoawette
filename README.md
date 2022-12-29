@@ -11,7 +11,7 @@
 <h3>
   Languages
 </h3>
-<p> dir="auto">
+<p> dir="auto"
   <img src="https://www.notion.so/cb4117ac38de49b6b51eeedf81382492#41328ccb251b40dd82bcb6e3214e3cd5" alt="python"
    style="max-width: 100%;">
    
