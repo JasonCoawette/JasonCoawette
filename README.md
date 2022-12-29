@@ -1,5 +1,5 @@
 
-<p dir="center">
+<p dir="auto">
   <img src="https://user-images.githubusercontent.com/75387800/209902398-29c830d4-653f-4196-b1cc-783c7ccba077.jpg" alt="banner" 
    style="max-width: 100%;">
 </p>
@@ -60,9 +60,8 @@
   <img src="https://user-images.githubusercontent.com/75387800/209904456-80b68e58-3c93-4def-bd05-11c0d5f1977d.png" width="75" height="75" alt="ghub">
   </br>
   
+</p>
+<p>
   <br>
-  <img src="https://user-images.githubusercontent.com/75387800/209907288-c59d5d73-6290-469c-8e6b-d0c304a9d62d.png" alt="city">
-  
-  
- 
+  <img src="https://user-images.githubusercontent.com/75387800/209907288-c59d5d73-6290-469c-8e6b-d0c304a9d62d.png" alt="city" style="max-width: 100%;">
 </p>
