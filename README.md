@@ -63,5 +63,5 @@
 </p>
 <p>
   <br>
-  <img src="https://user-images.githubusercontent.com/75387800/209907288-c59d5d73-6290-469c-8e6b-d0c304a9d62d.png" height = "500" alt="city" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/75387800/209907288-c59d5d73-6290-469c-8e6b-d0c304a9d62d.png" alt="city" style="max-width: 100%;">
 </p>
