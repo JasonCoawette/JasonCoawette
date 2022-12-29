@@ -15,8 +15,8 @@
  <img src="https://user-images.githubusercontent.com/75387800/209902595-d233290c-df95-4e17-a23e-118bddf5d0f1.png" width="100" height="100"   alt="Swift">
     
   
-  <img src="https://user-images.githubusercontent.com/75387800/209903023-a073fc00-9774-4f53-adb5-290ed2db0638.png" width="100" height="100" alt="python">
-  <img src="https://user-images.githubusercontent.com/75387800/209903052-75523f1e-72df-46e9-89d7-b5c8ed0e1c07.png" width="100" height="100" alt="java">
+  <img src="https://user-images.githubusercontent.com/75387800/209903023-a073fc00-9774-4f53-adb5-290ed2db0638.png" width="75" height="75" alt="python">
+  <img src="https://user-images.githubusercontent.com/75387800/209903052-75523f1e-72df-46e9-89d7-b5c8ed0e1c07.png" width="75" height="75" alt="java">
   <img src="https://user-images.githubusercontent.com/75387800/209903087-ac311cb2-a2bb-447b-a021-b68d97fb808e.png" width="100" height="100" alt="html">
   <img src="https://user-images.githubusercontent.com/75387800/209903604-14ff476b-3852-4ed0-b2cb-03c0c960867f.png" width="100" height="100" alt="CSS">
   <img src="https://user-images.githubusercontent.com/75387800/209903992-3abb2181-16e1-4caa-ab5d-9dcacf914406.png" width="100" height="100" alt="SQL">
