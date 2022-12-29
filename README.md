@@ -3,13 +3,13 @@
   <img src="https://user-images.githubusercontent.com/75387800/209895410-e75cbf0e-69c1-4a3e-8413-df0ab22a246e.jpg" alt="banner" 
    style="max-width: 100%;">
 </p>
-<h3>dir="auto">
-  "Finance | Machine Learning | Data Science | App Development"
+<h3>dir="auto"
+  Finance | Machine Learning | Data Science | App Development
 </h3>
 
 <br>
-<h3>dir="auto">
-  "Languages"
+<h3>dir="auto"
+  Languages
 </h3>
 <p>dir="auto">
    <a target="_blank" rel="noopener noreferrer nofollow"   href="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
@@ -19,8 +19,8 @@
 
 </p>
 
-<h3>dif="auto">
- "Frameworks, Platforms and Libraries"
+<h3>dif="auto"
+ Frameworks, Platforms and Libraries
 </h3>
 
 <p>dif="auto">
@@ -30,8 +30,8 @@
   </a>
 </p>
 
-<h3>dif="auto">
-  "Databases"
+<h3>dif="auto"
+  Databases
 </h3>
 
 <p>dif="auto">
@@ -39,8 +39,8 @@
   </a>
 </p>
 
-<h3>dif="auto">
-  "Tools"
+<h3>dif="auto"
+  Tools
 </h3>
 
 <p>dif="auto">
