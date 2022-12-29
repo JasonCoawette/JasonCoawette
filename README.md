@@ -12,10 +12,8 @@
   Languages
 </h3>
 <p> 
-  <figure>
-    <img src="https://user-images.githubusercontent.com/75387800/209902595-d233290c-df95-4e17-a23e-118bddf5d0f1.png" width="50" height="50" alt="Swift">
-    <figcaption> Swift UI </figcaption>
-  </figure>
+    <img src="https://user-images.githubusercontent.com/75387800/209902595-d233290c-df95-4e17-a23e-118bddf5d0f1.png" width="100" height="100"   alt="Swift">
+    
   
   <img src="https://user-images.githubusercontent.com/75387800/209903023-a073fc00-9774-4f53-adb5-290ed2db0638.png" alt="python" <figcaption> Python UI</figcaption>>
   <img src="https://user-images.githubusercontent.com/75387800/209903052-75523f1e-72df-46e9-89d7-b5c8ed0e1c07.png" alt="java" <figcaption> Java UI</figcaption>>
