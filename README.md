@@ -13,7 +13,7 @@
 </h3>
 <p> 
   <figure>
-    <img src="https://user-images.githubusercontent.com/75387800/209902595-d233290c-df95-4e17-a23e-118bddf5d0f1.png" alt="swift" >
+    <img src="https://user-images.githubusercontent.com/75387800/209902595-d233290c-df95-4e17-a23e-118bddf5d0f1.png" width="50" height="50" alt="Swift">
     <figcaption> Swift UI </figcaption>
   </figure>
   
