@@ -51,7 +51,7 @@
 </h3>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/75387800/209904117-57bbd5e5-ec65-403b-9d80-d5f0715b9df8.png" width="100" height="100" alt="figma">
+  <img src="https://user-images.githubusercontent.com/75387800/209905350-e462953b-1b61-4e85-851b-703a70e12488.png" width="100" height="100" alt="figma">
   <img src="https://user-images.githubusercontent.com/75387800/209904389-936fe8b8-c5a3-45e0-8f12-a09ea6a2f2d2.png" width="100" height="100" alt="XD">
   <img src="https://user-images.githubusercontent.com/75387800/209904513-00ff7502-0031-47bb-a540-6a3e85e5c387.png" width="100" height="100" alt="PS">
   <img src="https://user-images.githubusercontent.com/75387800/209904456-80b68e58-3c93-4def-bd05-11c0d5f1977d.png" width="100" height="100" alt="ghub">
