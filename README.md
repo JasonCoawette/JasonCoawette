@@ -13,7 +13,7 @@
 </h3>
 <p> 
   <img src="https://user-images.githubusercontent.com/75387800/209902595-d233290c-df95-4e17-a23e-118bddf5d0f1.png" alt="swift"
-   style="max-width: 10%;">
+   style="max-width: 50px;">
   
   
    
