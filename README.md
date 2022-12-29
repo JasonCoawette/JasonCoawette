@@ -12,7 +12,7 @@
   Languages
 </h3>
 <p> 
-  <img src=https://user-images.githubusercontent.com/75387800/209901786-ed434e61-8965-4f98-ace2-0375dba0a938.png" alt="python"
+  <img src="https://user-images.githubusercontent.com/75387800/209902595-d233290c-df95-4e17-a23e-118bddf5d0f1.png" alt="swift"
    style="max-width: 100%;">
    
   
